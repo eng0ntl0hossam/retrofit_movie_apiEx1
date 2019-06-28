@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">retrofit_movie_apiEx1</string>
+
+    <string name="MOVIEAPIKEY">c6c5374b89a1bba116b802ef29e0783a</string>
+</resources>
